@@ -3,6 +3,6 @@ Ecommerce company based in New York City that sells clothing online but they als
 The company is trying to decide whether to focus their efforts on their mobile app experience or their website. 
 
 Click [here](https://github.com/PrajwalRLJagtap/Appp-vs-Website-/blob/main/App_vs_Website_Performance_Comparision.ipynb) for the code and Data visualization 
-The company is trying to decide whether to focus their efforts on their mobile app experience or their website. 
+ 
 
 ![enter image description here](https://www.thebudgetfashionista.com/wp-content/uploads/2017/02/Depositphotos_87895272_m-2015.jpg.webp)
